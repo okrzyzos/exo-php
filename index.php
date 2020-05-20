@@ -67,3 +67,8 @@ echo  $prenom." ".$nom;
                                
 		</ul>
 </ul>
+<?php
+
+affichernombre(55);
+
+?>
