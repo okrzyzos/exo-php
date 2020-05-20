@@ -1,6 +1,6 @@
 <?php  
 
-
+require_once 'function.php';
  $i = 0;
 while ($i <= 10) {
     echo $i++; 
