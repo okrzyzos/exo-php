@@ -51,7 +51,7 @@ echo  $prenom." ".$nom;
 			<li>banane</li>
                                
 		</ul>
-</ul>
+
 	<li>vehicules</li>
 		<ul>
 			<li>voiture</li>
@@ -59,7 +59,6 @@ echo  $prenom." ".$nom;
 			<li>avion</li>
                                
 		</ul>
-</ul>
 	<li>pays</li>
 		<ul>
 			<li>france</li>
